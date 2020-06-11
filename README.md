@@ -9,5 +9,6 @@ Throughout the development of this App, I was able to use and implement the foll
 - [Postman](https://www.postman.com) to make HTTP requests (authentication via token, forms) and set up environments for development and production
 - [Heroku](https://dashboard.heroku.com) to deploy the API
 - [MongoDB Atlas](https://www.mongodb.com/cloud/atlas) and [MongoDB Compass](https://www.mongodb.com/products/compass) and [Robo 3T](https://robomongo.org) as MongoDB GUIs
+- [Jest](https://jestjs.io) as a testing framework
 - Other techniques such as the creation of environment variables to preserve the security of the source code
 
